@@ -5,7 +5,8 @@ Content of the various folders ranges from reports, paper reviews, coding exerci
 Below is a summary of the various topics tackled in the various projects present here.
 
 ## Supervised Learning
-Kernelisation of algorithms, sample complexity analysis, study of generalisatio ìn behaviour of common algorithms.
+Kernelisation of algorithms, sample complexity analysis, study of generalisation behaviour of common algorithms (perceptron, winnow, knn,...).
+Kernel perceptron from-scratch implementation and analysis on MNIST.
 
 ## Statistical Natural Language Processing
 Group project on argument mining (argument component identification to be precise). The full codebase for the project can be found [here](https://github.com/namiyousef/argument-mining).
